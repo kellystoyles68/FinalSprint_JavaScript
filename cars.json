@@ -1,0 +1,47 @@
+[{ 
+    "make" : "KIA",
+    "model" : "Sorento",
+    "trim": "X-Line",
+    "year" : 2023,
+    "color": "Midnight Blue" ,
+    "vprice": 43995.00
+    },
+
+   
+    {"make" : "KIA",
+    "model" : "Seltos",
+    "trim": "EX Premuim",
+    "year" : 2024,
+    "color": "Red",
+    "vprice": 36045.00
+    },
+
+    
+    {"make" : "KIA",
+    "model" : "Sportage",
+    "trim": "EX Premuim",
+    "year" : 2024,
+    "color":"Black" ,
+    "vprice": 41900.00
+    },
+
+
+    {"make" : "NISSAN",
+    "model" : "Qashqui",
+    "trim": "S FRD CVT",
+    "year" : 2023,
+    "color": "Dark Gray" ,
+    "vprice": 34950.00
+    },
+
+    
+    {"make" : "FORD",
+    "model" : "Escape",
+    "trim": "EcoBoost",
+    "year" : 2024,
+    "color": "Orange" ,
+    "vprice": 38995.00
+    }
+]
+
+
